@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Showroom Meubles de Kélibia en 3D</title>
+    </head>
+    <body>
+        <p>
+            Réalité virtuelle : <br>
+            <img src="3D.png" alt="Photo 3D" />
+        </p>
+    </body>
+</html>
